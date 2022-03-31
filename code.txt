@@ -5,3 +5,5 @@ steps:
 2: git add . = indicar que todos los archivos que han cambiado se van a subir al repositorio remoto
 3: git commit -m "mensaje que se asocia al commit" 
 4: git push origin //2 alternativas : 1. Colocar el nombre de la rama (main) o 2. HEAD
+
+Gersain wrote this
